@@ -2,10 +2,15 @@
 Academic Platform for Talent research and students development
 
 Now on development
-- [x] Chossing between Hyperledger Fabric,develop Nano Second Layer or other DAG near 0 fees
+- [x] Chossing between Hyperledger Fabric,develop Nano Second Layer or other DAG near 0 fees.
 
-Platform running on IOTA.
+Platform running on Hyperledger.
 - [ ] General Schemes and Drafts of UI(In process)
+
+Finishing on 30 June
+
+- [ ] dApp code structure and bases
+
 
   
 The hole basic idea of Linceo comes after seen the UNIZAR stadistics about failure in 1st year students,
