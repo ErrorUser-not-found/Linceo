@@ -2,7 +2,7 @@
 Academic Platform for Talent research and students development
 
 Done
-- [x] Chossing between __Hyperledger Fabric__,~~develop Nano Second Layer or other DAG near 0 fees.
+- [x] Chossing between __Hyperledger Fabric__,~~develop Nano Second Layer or other DAG near 0 fees.~~
 
 Platform running on Hyperledger.
 - [ ] General Schemes and Drafts of UI(In process)
