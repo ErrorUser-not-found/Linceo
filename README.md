@@ -1,15 +1,14 @@
 # Linceo
 Academic Platform for Talent research and students development
 
-Now on development
-- [x] Chossing between Hyperledger Fabric,develop Nano Second Layer or other DAG near 0 fees.
+Done
+- [x] Chossing between __Hyperledger Fabric__,~~develop Nano Second Layer or other DAG near 0 fees.
 
 Platform running on Hyperledger.
 - [ ] General Schemes and Drafts of UI(In process)
 
-Finishing on 30 June
-
-- [ ] dApp code structure and bases
+Next
+- [ ] Glitch team and Elm development of dApp
 
 
   
@@ -19,3 +18,6 @@ So we take a step and try to fix it trying to safe Universities founds wich can 
 
 Also we are making a detailed profile of the students capacities, specialization and interest in order to
 build a acurate database for companies searching specific individuals
+
+__Update(10/28/2018): This proyect development is turning into academic institutional research and we will stop public development
+untill we made the correct approach to handle this.
