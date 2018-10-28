@@ -20,4 +20,4 @@ Also we are making a detailed profile of the students capacities, specialization
 build a acurate database for companies searching specific individuals
 
 __Update(10/28/2018): This proyect development is turning into academic institutional research and we will stop public development
-untill we made the correct approach to handle this.
+untill we made the correct approach to handle this.__
